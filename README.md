@@ -83,7 +83,7 @@ view_nilai
 main
 ![](https://github.com/ikmalriyan21/Praktikum-7/blob/master/Gambar/main.png) 
 
-![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Main%202.PNG)  
+![](https://github.com/ikmalriyan21/Praktikum-7/blob/master/Gambar/main1.png)  
 
 Output
 ![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Hasil%20Output.PNG) 
