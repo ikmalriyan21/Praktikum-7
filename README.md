@@ -86,6 +86,6 @@ main
 ![](https://github.com/ikmalriyan21/Praktikum-7/blob/master/Gambar/main1.png)  
 
 Output
-![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Hasil%20Output.PNG) 
+![](https://github.com/ikmalriyan21/Praktikum-7/blob/master/Gambar/output.png) 
 
 ![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Hasil%20Output%202.PNG?raw=true)
